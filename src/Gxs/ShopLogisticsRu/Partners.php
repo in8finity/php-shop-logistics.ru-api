@@ -3,7 +3,7 @@
 
 namespace Gxs\ShopLogisticsRu;
 
-use Heartsentwined\ArgValidator\ArgValidator;
+use Yalesov\ArgValidator\ArgValidator;
 
 /**
  * Class Partners

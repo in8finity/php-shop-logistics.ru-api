@@ -6,7 +6,7 @@ namespace Gxs\ShopLogisticsRu;
 
 use Curl\Curl;
 use Gxs\ShopLogisticsRu\Exception\AnswerException;
-use Heartsentwined\ArgValidator\ArgValidator;
+use Yalesov\ArgValidator\ArgValidator;
 use LSS\Array2XML;
 use LSS\XML2Array;
 

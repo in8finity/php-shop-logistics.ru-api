@@ -5,7 +5,7 @@ namespace Gxs\ShopLogisticsRu;
 
 
 use Gxs\ShopLogisticsRu\Exception\NotImplementedException;
-use Heartsentwined\ArgValidator\ArgValidator;
+use Yalesov\ArgValidator\ArgValidator;
 
 /**
  * Class Delivery
