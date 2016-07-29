@@ -1,7 +1,7 @@
 {
-  "name": "gennadyx/shop-logistics.ru-api",
+  "name": "in8finity/shop-logistics.ru-api",
   "description": "PHP wrapper for shop-logistics.ru api",
-  "homepage": "https://github.com/gennadyx/php-shop-logistics.ru-api",
+  "homepage": "https://github.com/in8finity/php-shop-logistics.ru-api",
   "license": "BSD",
   "authors": [
     {
